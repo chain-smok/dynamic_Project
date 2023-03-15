@@ -1,0 +1,26 @@
+{   "school":"靜宜大學",
+    "teacher":"謝孟諺",
+    "member": [
+        {
+            "name":"沈暐勛",
+            "number":"411017802",
+            "gender":"男"
+        },
+        {    
+            "name":"李怡瑩",
+            "number":"411018264",
+            "gender":"女"
+        },
+        { 
+            "name":"林祐德",
+            "number":"411018345",
+            "gender":"男"
+        },
+        { 
+            "name":"曾偉哲",
+            "number":"411030371",
+            "gender":"男"
+        }
+    ],
+    "Projectname":"到此一遊"
+}
