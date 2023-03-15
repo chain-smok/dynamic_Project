@@ -1,6 +1,6 @@
 import json
 
-with open('HW4.json') as f:
+with open('member.json') as f:
   info = json.load(f)
 
 print('school:',info['school'])
