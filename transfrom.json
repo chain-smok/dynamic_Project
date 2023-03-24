@@ -1,0 +1,5 @@
+[{"id": 1, "username": "alice", "password": "$2b$12$26D0C964346361535ECD9649D6E61F", "balance": 10000, "create_time":"2022-02-01 2:12:23"},
+ {"id": 2, "username": "bob", "password": "$2b$12$02AA3F37F179791708BEB460AE04D8D0", "balance": 5000, "create_time": "2022-04-05 7:06:12"}, 
+ {"id": 3, "username": "charlie", "password": "$2b$12$350A6A3D063FABBA508CBC7A7A27", "balance": 8000, "create_time": "2023-05-07 5:09:11"}, 
+ {"id": 4, "username": "david", "password": "$2b$12$783E0D31CFCCD7F0DDCAC8C811D2D6", "balance": 15000, "create_time": "2024-03-01 8:08:02"}, 
+ {"id": 5, "username": "emily", "password": "$2b$12$19AD5BC46BC127730FADF5D0A81EBC", "balance": 2000, "create_time": "2031-02-01 3:02:01"}]
